@@ -42,7 +42,7 @@ def page(title, desc, body, updated="14 September 2026"):
 </html>"""
 
 INDEX = """<h1>Dokumen Legalitas Clincoo</h1>
-<p class="sub">Selamat datang di pusat dokumen hukum Clincoo. Halaman ini terbuka untuk umum tanpa perlu masuk. Dengan menggunakan Clincoo &mdash; mulai dari membuat dan menerbitkan situs, mengisi saldo, hingga fitur AI &mdash; kamu dianggap telah membaca dan menyetujui dokumen di bawah ini.</p>
+<p class="sub">Selamat datang di pusat dokumen hukum Clincoo. Dengan menggunakan Clincoo &mdash; mulai dari membuat dan menerbitkan situs, mengisi saldo, hingga fitur AI &mdash; kamu dianggap telah membaca dan menyetujui dokumen di bawah ini.</p>
 <div class="docs-list">
 <a href="/Clincoo-Legal/syarat-ketentuan.html"><b>Syarat &amp; Ketentuan</b><span>Aturan penggunaan platform Clincoo: akun, konten, situs yang diterbitkan, fitur AI, dan batasan tanggung jawab.</span></a>
 <a href="/Clincoo-Legal/kebijakan-privasi.html"><b>Kebijakan Privasi</b><span>Data apa yang kami kumpulkan, bagaimana kami menggunakannya, dan bagaimana kamu meminta penghapusan data.</span></a>
