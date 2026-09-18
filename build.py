@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-NAV = """<header class="nav"><div class="nav-in"><a class="brand" href="/legal/">Clinqoo</a><nav>
+NAV = """<header class="nav"><div class="nav-in"><a class="brand" href="/legal/">Clincoo</a><nav>
 <a href="/legal/syarat-ketentuan.html">Syarat &amp; Ketentuan</a>
 <a href="/legal/kebijakan-privasi.html">Kebijakan Privasi</a>
 <a href="/legal/kebijakan-cookie.html">Cookie</a>
 <a href="/legal/kebijakan-pembayaran.html">Pembayaran</a>
 </nav></div></header>"""
-FOOT = """<footer><div class="wrap"><p class="sub">&copy; 2026 Clinqoo. Dokumen legalitas resmi platform Clinqoo. Pertanyaan: muzawwied@gmail.com</p>
+FOOT = """<footer><div class="wrap"><p class="sub">&copy; 2026 Clincoo. Dokumen legalitas resmi platform Clincoo. Pertanyaan: muzawwied@gmail.com</p>
 <div class="flinks">
 <a href="/legal/syarat-ketentuan.html">Syarat &amp; Ketentuan</a>
 <a href="/legal/kebijakan-privasi.html">Kebijakan Privasi</a>
@@ -41,12 +41,12 @@ def page(title, desc, body, updated="14 September 2026"):
 </body>
 </html>"""
 
-INDEX = """<h1>Dokumen Legalitas Clinqoo</h1>
-<p class="sub">Selamat datang di pusat dokumen hukum Clinqoo. Dengan menggunakan Clinqoo &mdash; mulai dari membuat dan menerbitkan situs, mengisi saldo, hingga fitur AI &mdash; kamu dianggap telah membaca dan menyetujui dokumen di bawah ini.</p>
+INDEX = """<h1>Dokumen Legalitas Clincoo</h1>
+<p class="sub">Selamat datang di pusat dokumen hukum Clincoo. Dengan menggunakan Clincoo &mdash; mulai dari membuat dan menerbitkan situs, mengisi saldo, hingga fitur AI &mdash; kamu dianggap telah membaca dan menyetujui dokumen di bawah ini.</p>
 <div class="docs-list">
-<a href="/legal/syarat-ketentuan.html"><b>Syarat &amp; Ketentuan</b><span>Aturan penggunaan platform Clinqoo: akun, konten, situs yang diterbitkan, fitur AI, dan batasan tanggung jawab.</span></a>
+<a href="/legal/syarat-ketentuan.html"><b>Syarat &amp; Ketentuan</b><span>Aturan penggunaan platform Clincoo: akun, konten, situs yang diterbitkan, fitur AI, dan batasan tanggung jawab.</span></a>
 <a href="/legal/kebijakan-privasi.html"><b>Kebijakan Privasi</b><span>Data apa yang kami kumpulkan, bagaimana kami menggunakannya, dan bagaimana kamu meminta penghapusan data.</span></a>
-<a href="/legal/kebijakan-cookie.html"><b>Kebijakan Cookie</b><span>Cookie dan penyimpanan lokal (localStorage) yang dipakai Clinqoo agar pengalamanmu tetap nyaman.</span></a>
+<a href="/legal/kebijakan-cookie.html"><b>Kebijakan Cookie</b><span>Cookie dan penyimpanan lokal (localStorage) yang dipakai Clincoo agar pengalamanmu tetap nyaman.</span></a>
 <a href="/legal/kebijakan-pembayaran.html"><b>Kebijakan Pembayaran</b><span>Top up saldo, pembayaran QRIS, kuota AI, langganan, serta ketentuan pengembalian dana.</span></a>
 </div>
 <hr>
@@ -55,12 +55,12 @@ INDEX = """<h1>Dokumen Legalitas Clinqoo</h1>
 <p>Terakhir diperbarui: 14 September 2026.</p>"""
 
 SK = """<h1>Syarat &amp; Ketentuan</h1>
-<p class="sub">Dokumen ini mengatur penggunaan layanan Clinqoo oleh seluruh pengguna.</p>
+<p class="sub">Dokumen ini mengatur penggunaan layanan Clincoo oleh seluruh pengguna.</p>
 <div class="toc">
 <a href="#1">1. Definisi</a>
 <a href="#2">2. Akun &amp; Keamanan</a>
 <a href="#3">3. Layanan Publikasi Situs</a>
-<a href="#4">4. Fitur AI (Clinqoo AI &amp; Mode Agent)</a>
+<a href="#4">4. Fitur AI (Clincoo AI &amp; Mode Agent)</a>
 <a href="#5">5. Konten yang Dilarang</a>
 <a href="#6">6. Saldo, Kuota &amp; Pembayaran</a>
 <a href="#7">7. Komunitas</a>
@@ -72,7 +72,7 @@ SK = """<h1>Syarat &amp; Ketentuan</h1>
 </div>
 <hr>
 <h2 id="1">1. Definisi</h2>
-<p>&ldquo;Clinqoo&rdquo; adalah platform yang memungkinkan pengguna membangun, mengedit, dan menerbitkan situs web secara langsung dari browser, termasuk fitur workspace, template, integrasi GitHub &amp; Cloudflare, dompet digital, serta asisten AI. &ldquo;Pengguna&rdquo; adalah setiap orang yang mengakses atau menggunakan Clinqoo, baik tanpa akun (pengunjung) maupun dengan akun (anggota).</p>
+<p>&ldquo;Clincoo&rdquo; adalah platform yang memungkinkan pengguna membangun, mengedit, dan menerbitkan situs web secara langsung dari browser, termasuk fitur workspace, template, integrasi GitHub &amp; Cloudflare, dompet digital, serta asisten AI. &ldquo;Pengguna&rdquo; adalah setiap orang yang mengakses atau menggunakan Clincoo, baik tanpa akun (pengunjung) maupun dengan akun (anggota).</p>
 <h2 id="2">2. Akun &amp; Keamanan</h2>
 <ul>
 <li>Kamu wajib memberikan data yang benar saat mendaftar dan menjaga kerahasiaan kredensial akunmu sendiri.</li>
@@ -87,14 +87,14 @@ SK = """<h1>Syarat &amp; Ketentuan</h1>
 <li>Domain kustom, pengaturan akses, dan konfigurasi deploy adalah kendali kamu; kesalahan konfigurasi di luar kendali teknis kami bukan tanggung jawab kami.</li>
 <li>Kami dapat menghentikan penayangan situs yang melanggar hukum Indonesia atau dokumen ini.</li>
 </ul>
-<h2 id="4">4. Fitur AI (Clinqoo AI &amp; Mode Agent)</h2>
+<h2 id="4">4. Fitur AI (Clincoo AI &amp; Mode Agent)</h2>
 <ul>
 <li>Output AI bersifat bantu/saran. Verifikasi seluruh kode, teks, dan hasil AI sebelum dipublikasikan; kami tidak menjamin output AI bebas dari kesalahan.</li>
 <li>Penggunaan fitur AI tunduk pada kuota harian sesuai paket. Upaya melewati kuota dengan cara apa pun (multi-akun, otomatisasi, manipulasi) dapat menyebabkan pembatasan atau penutupan akun.</li>
 <li>Jangan memasukkan data rahasia, kredensial, atau data pribadi pihak ketiga ke dalam fitur AI.</li>
 </ul>
 <h2 id="5">5. Konten yang Dilarang</h2>
-<p>Kamu dilarang keras membuat, menerbitkan, atau menyimpan di Clinqoo konten yang berkaitan dengan:</p>
+<p>Kamu dilarang keras membuat, menerbitkan, atau menyimpan di Clincoo konten yang berkaitan dengan:</p>
 <ul>
 <li>Judi online dalam bentuk apa pun, pencucian uang, atau skema penipuan (termasuk investasi bodong dan ponzi);</li>
 <li>Narkotika, psikotropika, dan zat terlarang;</li>
@@ -106,7 +106,7 @@ SK = """<h1>Syarat &amp; Ketentuan</h1>
 <p>Pelanggaran mengakibatkan penghapusan konten dan/atau pemblokiran akun permanen, dan dapat dilaporkan kepada aparat berwenang.</p>
 <h2 id="6">6. Saldo, Kuota &amp; Pembayaran</h2>
 <ul>
-<li>Saldo Clinqoo bersifat prabayar dan digunakan untuk layanan berbayar di dalam platform (mis. kuota AI, layanan premium).</li>
+<li>Saldo Clincoo bersifat prabayar dan digunakan untuk layanan berbayar di dalam platform (mis. kuota AI, layanan premium).</li>
 <li>Pengisian saldo dilakukan melalui QRIS dengan penyedia pembayaran pihak ketiga. Konfirmasi pembayaran otomatis melalui webhook bertanda tangan digital.</li>
 <li>Detail biaya, metode, dan pengembalian dana diatur dalam <a href="/legal/kebijakan-pembayaran.html">Kebijakan Pembayaran</a>.</li>
 </ul>
@@ -117,21 +117,21 @@ SK = """<h1>Syarat &amp; Ketentuan</h1>
 </ul>
 <h2 id="8">8. Kepemilikan &amp; Lisensi Konten</h2>
 <ul>
-<li>Konten milikmu tetap milikmu. Dengan menerbitkan melalui Clinqoo, kamu memberi kami lisensi terbatas untuk menyimpan, memproses, dan menayangkan konten tersebut sepanjang diperlukan untuk menjalankan layanan.</li>
-<li>Logo, nama, dan antarmuka Clinqoo adalah milik kami dan tidak boleh digunakan tanpa izin.</li>
+<li>Konten milikmu tetap milikmu. Dengan menerbitkan melalui Clincoo, kamu memberi kami lisensi terbatas untuk menyimpan, memproses, dan menayangkan konten tersebut sepanjang diperlukan untuk menjalankan layanan.</li>
+<li>Logo, nama, dan antarmuka Clincoo adalah milik kami dan tidak boleh digunakan tanpa izin.</li>
 <li>Dokumen ini dilindungi hak cipta &mdash; menyalin bagian besar tanpa atribut untuk tujuan komersial tidak diperkenankan.</li>
 </ul>
 <h2 id="9">9. Batasan Tanggung Jawab</h2>
-<p>Layanan disediakan &ldquo;sebagaimana adanya&rdquo;. Sepanjang diizinkan hukum, Clinqoo tidak bertanggung jawab atas kerugian tidak langsung, kehilangan data, kehilangan pendapatan, atau sengketa antara pengguna dan pihak ketiga. Tanggung jawab kami maksimal setara nilai yang telah kamu bayarkan kepada Clinqoo dalam 6 (enam) bulan terakhir.</p>
+<p>Layanan disediakan &ldquo;sebagaimana adanya&rdquo;. Sepanjang diizinkan hukum, Clincoo tidak bertanggung jawab atas kerugian tidak langsung, kehilangan data, kehilangan pendapatan, atau sengketa antara pengguna dan pihak ketiga. Tanggung jawab kami maksimal setara nilai yang telah kamu bayarkan kepada Clincoo dalam 6 (enam) bulan terakhir.</p>
 <h2 id="10">10. Perubahan Layanan &amp; Dokumen</h2>
-<p>Kami dapat memperbarui fitur, kuota, harga, maupun dokumen ini. Perubahan penting diumumkan di dalam platform atau melalui email. Lanjut menggunakan Clinqoo setelah perubahan berlaku berarti kamu menyetujuinya.</p>
+<p>Kami dapat memperbarui fitur, kuota, harga, maupun dokumen ini. Perubahan penting diumumkan di dalam platform atau melalui email. Lanjut menggunakan Clincoo setelah perubahan berlaku berarti kamu menyetujuinya.</p>
 <h2 id="11">11. Pengakhiran</h2>
 <p>Kamu dapat berhenti kapan saja dengan menghapus akunmu. Kami dapat mengakhiri akses atas pelanggaran berat (pasal 5) atau tunggakan pembayaran. Sisa saldo yang memenuhi syarat Kebijakan Pembayaran dapat diajukan untuk pengembalian.</p>
 <h2 id="12">12. Hukum yang Berlaku</h2>
 <p>Dokumen ini tunduk pada hukum Republik Indonesia. Segala sengketa diselesaikan secara musyawarah, dan bila tidak tercapai, melalui pengadilan yang berwenang di Indonesia. Pengguna diwajibkan mematuhi UU ITE (No. 11/2008 jo. No. 19/2016), UU PDP (No. 27/2022), dan peraturan pelaksananya.</p>"""
 
 PRIV = """<h1>Kebijakan Privasi</h1>
-<p class="sub">Kami menghormati privasimu. Dokumen ini menjelaskan data yang dikumpulkan Clinqoo dan hak-hak kamu sesuai UU Perlindungan Data Pribadi (UU No. 27/2022).</p>
+<p class="sub">Kami menghormati privasimu. Dokumen ini menjelaskan data yang dikumpulkan Clincoo dan hak-hak kamu sesuai UU Perlindungan Data Pribadi (UU No. 27/2022).</p>
 <div class="toc">
 <a href="#kumpul">Data yang Kami Kumpulkan</a>
 <a href="#pakai">Cara Kami Menggunakan Data</a>
@@ -176,10 +176,10 @@ PRIV = """<h1>Kebijakan Privasi</h1>
 <li>Menarik persetujuan pemrosesan tertentu, dengan konsekuensi fitur terkait tidak dapat berjalan.</li>
 </ul>
 <h2 id="anak">Privasi Anak</h2>
-<p>Clinqoo tidak ditujukan untuk anak di bawah 13 tahun. Bila kami menemukan data anak tanpa persetujuan orang tua/wali, kami menghapusnya.</p>"""
+<p>Clincoo tidak ditujukan untuk anak di bawah 13 tahun. Bila kami menemukan data anak tanpa persetujuan orang tua/wali, kami menghapusnya.</p>"""
 
 COOKIE = """<h1>Kebijakan Cookie</h1>
-<p class="sub">Clinqoo memakai cookie dan penyimpanan lokal (localStorage) dalam jumlah kecil agar fitur tetap berfungsi.</p>
+<p class="sub">Clincoo memakai cookie dan penyimpanan lokal (localStorage) dalam jumlah kecil agar fitur tetap berfungsi.</p>
 <hr>
 <h2>Jenis yang Kami Gunakan</h2>
 <ul>
@@ -196,7 +196,7 @@ COOKIE = """<h1>Kebijakan Cookie</h1>
 <p>Kamu bisa menghapus penyimpanan lokal kapan pun dari pengaturan browser. Namai dengan hati-hati: menghapus token autentikasi akan mengeluarkan kamu dari akun dan draft lokal bisa hilang.</p>"""
 
 PAY = """<h1>Kebijakan Pembayaran</h1>
-<p class="sub">Ketentuan top up saldo, kuota, langganan, dan pengembalian dana di Clinqoo.</p>
+<p class="sub">Ketentuan top up saldo, kuota, langganan, dan pengembalian dana di Clincoo.</p>
 <div class="toc">
 <a href="#topup">Top Up Saldo</a>
 <a href="#harga">Harga, Biaya &amp; Kuota</a>
@@ -215,7 +215,7 @@ PAY = """<h1>Kebijakan Pembayaran</h1>
 <ul>
 <li>Harga dan kuota layanan (mis. kuota AI harian gratis 25, paket Pro, dll.) tercantum di halaman masing-masing dan dapat berubah; perubahan diumumkan di dalam platform.</li>
 <li>Biaya layanan QRIS mengikuti tarif penyedia pembayaran (mulai 1% per transaksi berhasil). Transaksi pending, gagal, atau kedaluwarsa tidak dikenakan biaya.</li>
-<li>Saldo yang sudah dibeli hanya dapat dipakai untuk layanan di dalam Clinqoo dan tidak dapat dipindahtangankan ke pengguna lain.</li>
+<li>Saldo yang sudah dibeli hanya dapat dipakai untuk layanan di dalam Clincoo dan tidak dapat dipindahtangankan ke pengguna lain.</li>
 </ul>
 <h2 id="refund">Pengembalian Dana</h2>
 <ul>
@@ -228,9 +228,9 @@ PAY = """<h1>Kebijakan Pembayaran</h1>
 <h2 id="sengketa">Sengketa Transaksi</h2>
 <p>Sampaikan dulu kepada tim kami di <a href="mailto:muzawwied@gmail.com">muzawwied@gmail.com</a> sebelum mengajukan chargeback ke bank/e-wallet. Chargeback yang terbukti disengaja tanpa upaya penyelesaian dapat menyebabkan akun ditangguhkan.</p>"""
 
-open('index.html','w').write(page("Clinqoo — Dokumen Legalitas", "Syarat & Ketentuan, Kebijakan Privasi, Cookie, dan Pembayaran Clinqoo. Terbuka untuk umum tanpa login.", INDEX))
-open('syarat-ketentuan.html','w').write(page("Syarat & Ketentuan — Clinqoo", "Aturan penggunaan platform Clinqoo: akun, publikasi situs, fitur AI, konten terlarang, dan batasan tanggung jawab.", SK))
-open('kebijakan-privasi.html','w').write(page("Kebijakan Privasi — Clinqoo", "Data yang dikumpulkan Clinqoo, penggunaannya, hak kamu atas data pribadi, dan cara penghapusannya sesuai UU PDP.", PRIV))
-open('kebijakan-cookie.html','w').write(page("Kebijakan Cookie — Clinqoo", "Cookie dan localStorage yang dipakai Clinqoo — tanpa cookie iklan atau pelacak pihak ketiga.", COOKIE))
-open('kebijakan-pembayaran.html','w').write(page("Kebijakan Pembayaran — Clinqoo", "Top up QRIS, biaya layanan, kuota, dan ketentuan pengembalian dana Clinqoo.", PAY))
+open('index.html','w').write(page("Clincoo — Dokumen Legalitas", "Syarat & Ketentuan, Kebijakan Privasi, Cookie, dan Pembayaran Clincoo. Terbuka untuk umum tanpa login.", INDEX))
+open('syarat-ketentuan.html','w').write(page("Syarat & Ketentuan — Clincoo", "Aturan penggunaan platform Clincoo: akun, publikasi situs, fitur AI, konten terlarang, dan batasan tanggung jawab.", SK))
+open('kebijakan-privasi.html','w').write(page("Kebijakan Privasi — Clincoo", "Data yang dikumpulkan Clincoo, penggunaannya, hak kamu atas data pribadi, dan cara penghapusannya sesuai UU PDP.", PRIV))
+open('kebijakan-cookie.html','w').write(page("Kebijakan Cookie — Clincoo", "Cookie dan localStorage yang dipakai Clincoo — tanpa cookie iklan atau pelacak pihak ketiga.", COOKIE))
+open('kebijakan-pembayaran.html','w').write(page("Kebijakan Pembayaran — Clincoo", "Top up QRIS, biaya layanan, kuota, dan ketentuan pengembalian dana Clincoo.", PAY))
 print("5 halaman legal + index dibuat")
