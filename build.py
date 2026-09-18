@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
-NAV = """<header class="nav"><div class="nav-in"><a class="brand" href="/legal/">Clincoo</a><nav>
-<a href="/legal/syarat-ketentuan.html">Syarat &amp; Ketentuan</a>
-<a href="/legal/kebijakan-privasi.html">Kebijakan Privasi</a>
-<a href="/legal/kebijakan-cookie.html">Cookie</a>
-<a href="/legal/kebijakan-pembayaran.html">Pembayaran</a>
+NAV = """<header class="nav"><div class="nav-in"><a class="brand" href="/">Clincoo</a><nav>
+<a href="/syarat-ketentuan.html">Syarat &amp; Ketentuan</a>
+<a href="/kebijakan-privasi.html">Kebijakan Privasi</a>
+<a href="/kebijakan-cookie.html">Cookie</a>
+<a href="/kebijakan-pembayaran.html">Pembayaran</a>
 </nav></div></header>"""
 FOOT = """<footer><div class="wrap"><p class="sub">&copy; 2026 Clincoo. Dokumen legalitas resmi platform Clincoo. Pertanyaan: muzawwied@gmail.com</p>
 <div class="flinks">
-<a href="/legal/syarat-ketentuan.html">Syarat &amp; Ketentuan</a>
-<a href="/legal/kebijakan-privasi.html">Kebijakan Privasi</a>
-<a href="/legal/kebijakan-cookie.html">Kebijakan Cookie</a>
-<a href="/legal/kebijakan-pembayaran.html">Kebijakan Pembayaran</a>
+<a href="/syarat-ketentuan.html">Syarat &amp; Ketentuan</a>
+<a href="/kebijakan-privasi.html">Kebijakan Privasi</a>
+<a href="/kebijakan-cookie.html">Kebijakan Cookie</a>
+<a href="/kebijakan-pembayaran.html">Kebijakan Pembayaran</a>
 </div></div></footer>"""
 def page(title, desc, body, updated="14 September 2026"):
     return f"""<!DOCTYPE html>
@@ -27,10 +27,10 @@ def page(title, desc, body, updated="14 September 2026"):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
-<link rel="icon" type="image/png" sizes="64x64" href="/legal/favicon.png">
-<link rel="apple-touch-icon" href="/legal/icon-180.png">
+<link rel="icon" type="image/png" sizes="64x64" href="/favicon.png">
+<link rel="apple-touch-icon" href="/icon-180.png">
 <link property="og:image" content="https://clinqoo.pages.dev/assets/icons/icon-512.png">
-<link rel="stylesheet" href="/legal/style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 {NAV}
@@ -44,10 +44,10 @@ def page(title, desc, body, updated="14 September 2026"):
 INDEX = """<h1>Dokumen Legalitas Clincoo</h1>
 <p class="sub">Selamat datang di pusat dokumen hukum Clincoo. Dengan menggunakan Clincoo &mdash; mulai dari membuat dan menerbitkan situs, mengisi saldo, hingga fitur AI &mdash; kamu dianggap telah membaca dan menyetujui dokumen di bawah ini.</p>
 <div class="docs-list">
-<a href="/legal/syarat-ketentuan.html"><b>Syarat &amp; Ketentuan</b><span>Aturan penggunaan platform Clincoo: akun, konten, situs yang diterbitkan, fitur AI, dan batasan tanggung jawab.</span></a>
-<a href="/legal/kebijakan-privasi.html"><b>Kebijakan Privasi</b><span>Data apa yang kami kumpulkan, bagaimana kami menggunakannya, dan bagaimana kamu meminta penghapusan data.</span></a>
-<a href="/legal/kebijakan-cookie.html"><b>Kebijakan Cookie</b><span>Cookie dan penyimpanan lokal (localStorage) yang dipakai Clincoo agar pengalamanmu tetap nyaman.</span></a>
-<a href="/legal/kebijakan-pembayaran.html"><b>Kebijakan Pembayaran</b><span>Top up saldo, pembayaran QRIS, kuota AI, langganan, serta ketentuan pengembalian dana.</span></a>
+<a href="/syarat-ketentuan.html"><b>Syarat &amp; Ketentuan</b><span>Aturan penggunaan platform Clincoo: akun, konten, situs yang diterbitkan, fitur AI, dan batasan tanggung jawab.</span></a>
+<a href="/kebijakan-privasi.html"><b>Kebijakan Privasi</b><span>Data apa yang kami kumpulkan, bagaimana kami menggunakannya, dan bagaimana kamu meminta penghapusan data.</span></a>
+<a href="/kebijakan-cookie.html"><b>Kebijakan Cookie</b><span>Cookie dan penyimpanan lokal (localStorage) yang dipakai Clincoo agar pengalamanmu tetap nyaman.</span></a>
+<a href="/kebijakan-pembayaran.html"><b>Kebijakan Pembayaran</b><span>Top up saldo, pembayaran QRIS, kuota AI, langganan, serta ketentuan pengembalian dana.</span></a>
 </div>
 <hr>
 <h2>Kontak</h2>
@@ -108,7 +108,7 @@ SK = """<h1>Syarat &amp; Ketentuan</h1>
 <ul>
 <li>Saldo Clincoo bersifat prabayar dan digunakan untuk layanan berbayar di dalam platform (mis. kuota AI, layanan premium).</li>
 <li>Pengisian saldo dilakukan melalui QRIS dengan penyedia pembayaran pihak ketiga. Konfirmasi pembayaran otomatis melalui webhook bertanda tangan digital.</li>
-<li>Detail biaya, metode, dan pengembalian dana diatur dalam <a href="/legal/kebijakan-pembayaran.html">Kebijakan Pembayaran</a>.</li>
+<li>Detail biaya, metode, dan pengembalian dana diatur dalam <a href="/kebijakan-pembayaran.html">Kebijakan Pembayaran</a>.</li>
 </ul>
 <h2 id="7">7. Komunitas</h2>
 <ul>
